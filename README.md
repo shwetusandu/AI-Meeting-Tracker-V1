@@ -42,7 +42,7 @@ This causes delivery inefficiency and communication gaps.
 
 AI Meeting Tracker automates the full meeting follow-up lifecycle.
 
-![AI Meeting Tracker Workflow](make-blueprints/AI Meeting Tracker Make.com Workflow.png)
+![AI-Meeting-Tracker-V1](docs/Images/AI-Meeting-Tracker-Make-Workflow.png)
 
 ### Input
 
@@ -62,6 +62,10 @@ Raw transcript / meeting notes
 - Notify Slack team channel  
 - Send Gmail summary  
 - Store records in Google Sheets
+
+![AI-Meeting-Tracker-V1](docs/Images/Sample-Email.png)
+![AI-Meeting-Tracker-V1](docs/Images/Sample-Jira-Ticket.png)
+![AI-Meeting-Tracker-V1](docs/Images/Sample-Slack-Message.png)
 
 ---
 
