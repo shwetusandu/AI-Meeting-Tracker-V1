@@ -177,7 +177,7 @@ This project demonstrates:
 
 ---
 
-## 📂 Recommended Structure
+## 📂 Folder Structure
 
 ```text
 AI-Meeting-Tracker/
@@ -187,26 +187,4 @@ AI-Meeting-Tracker/
 │── docs/
 │── README.md
 ```
-
----
-
-## 🗣 Interview Pitch
-
-I built an AI Meeting Tracker that converts raw meeting notes into structured summaries, Jira tasks, Slack alerts, and stakeholder emails using Make.com and OpenAI. It solves the common business problem of lost action items and weak follow-up after meetings.
-
----
-
-## 🚀 Future Version (V2)
-
-- AI Agent with MCP tools  
-- Duplicate Jira detection  
-- Weekly leadership dashboard  
-- Sentiment analytics  
-- Smart owner assignment
-
----
-
-## Final Statement
-
-This is not a tutorial project. It is a real business productivity system demonstrating end-to-end AI automation skills.
 
