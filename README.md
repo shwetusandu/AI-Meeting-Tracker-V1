@@ -42,6 +42,8 @@ This causes delivery inefficiency and communication gaps.
 
 AI Meeting Tracker automates the full meeting follow-up lifecycle.
 
+![AI Meeting Tracker Workflow](make-blueprints/AI Meeting Tracker Make.com Workflow.png)
+
 ### Input
 
 Raw transcript / meeting notes
