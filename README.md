@@ -42,7 +42,7 @@ This causes delivery inefficiency and communication gaps.
 
 AI Meeting Tracker automates the full meeting follow-up lifecycle.
 
-![](docs/Images/AI-Meeting-Tracker-V1)
+![](docs/Images/AI-Meeting-Tracker-V1.png)
 
 ### Input
 
